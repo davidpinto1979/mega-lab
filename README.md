@@ -1,5 +1,4 @@
 REACT LAB FINAL
-https://professordiogo.notion.site/REACT-LAB-FINAL-154c08bca56a80dcafc2c9cde0b103de
 
 
 Link para o repositório GitHub:
